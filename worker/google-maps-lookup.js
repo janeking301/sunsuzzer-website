@@ -5,7 +5,7 @@
  */
 const ALLOWED_ORIGINS = [
   "https://janeking301.github.io",
-  "https://sunsuzzer-realtw.netlify.app"
+  "https://japanordersunsuzzer.netlify.app"
 ];
 
 function cors(origin) {
